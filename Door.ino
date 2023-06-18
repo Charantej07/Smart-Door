@@ -2,14 +2,14 @@
 #include <WiFiClientSecure.h>
 
 // Replace with your network credentials
-const char *ssid = "Realme 8s 5G";
-const char *password = "123456789";
+const char *ssid = "Username";
+const char *password = "********";
 
 // Replace with your Discord bot token
-const char *bot_token = "MTA5NDIxMzc3MzI1NjAzMjI3Ng.GC7BuD.AAccj2YW2c6L5Q32x5-JO5w-EHkON_XrhAjJQQ";
+const char *bot_token = "Your bot token";
 
 // Replace with your Discord channel ID
-const char *channel_id = "1094217495528886322";
+const char *channel_id = "Your channel ID";
 
 // Replace with your Discord server hostname
 const char *discord_hostname = "discord.com";
